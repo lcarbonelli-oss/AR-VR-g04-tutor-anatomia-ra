@@ -20,14 +20,14 @@ En la enseñanza tradicional de la medicina y la biología, el estudio de los si
 ## 🖼️ Capturas del Proyecto
 
 ### Menú Principal
-![Menú Principal](docs/capturas/MenuPrincipal.png)
+![Menú Principal](Capturas/MenuPrincipal.png)
 
 ### Selección de Salas
-![Selección de Salas](docs/capturas/SeleccionSalas.png)
+![Selección de Salas](Capturas/SeleccionSalas.png)
 
 ### Laboratorio de Anatomía
-![Laboratorio](docs/capturas/LaboratorioAnatomia.png)
-![Laboratorio](docs/capturas/LaboratorioAnatomia1.png)
+![Laboratorio](Capturas/LaboratorioAnatomia.png)
+![Laboratorio](Capturas/LaboratorioAnatomia1.png)
 
 ---
 
