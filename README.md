@@ -57,15 +57,15 @@ cd rva-g04-tutor-anatomia-ra
 ## Progreso del Proyecto
 
 | Semanas | Hito | Estado |
-|---------|------|--------|
-| S01-S02 | Investigación y planteamiento del problema + idea inicial del proyecto | ⏳ Pendiente |
-| S03-S04 | Definición del MVP (Minimum Viable Product) + arquitectura técnica | ⏳ Pendiente |
-| S05-S06 | Prototipo básico funcional — primera iteración con Unity | ⏳ Pendiente |
-| S07-S08 | Funcionalidades de interacción implementadas | ⏳ Pendiente |
-| S09-S10 | Escenarios 3D y UI/UX del proyecto | ⏳ Pendiente |
-| S11-S12 | Integración de datos / features especiales del proyecto | ⏳ Pendiente |
-| S13-S14 | Audio, optimización y pruebas de usabilidad | ⏳ Pendiente |
-| S15-S16 | Proyecto final completo + presentación | ⏳ Pendiente |
+| :---: | :--- | :---: |
+| **S01-S02** | Investigación y planteamiento del problema + idea inicial del proyecto | ✅ Logrado |
+| **S03-S04** | Definición del MVP (Minimum Viable Product) + arquitectura técnica | ✅ Logrado |
+| **S05-S06** | Prototipo básico funcional — primera iteración con Unity | ✅ Logrado |
+| **S07-S08** | Funcionalidades de interacción implementadas (Movimiento FPS y Triggers) | ✅ Logrado |
+| **S09-S10** | Escenarios 3D (Clínica y Laboratorio) y UI/UX del proyecto con Post-Processing | ✅ Logrado |
+| **S11-S12** | Integration de datos / features especiales del proyecto | ⏳ Pendiente |
+| **S13-S14** | Audio, optimización y pruebas de usabilidad | ⏳ Pendiente |
+| **S15-S16** | Proyecto final completo + presentación | ⏳ Pendiente |
 
 ---
 
