@@ -26,8 +26,8 @@ En la enseñanza tradicional de la medicina y la biología, el estudio de los si
 ![Selección de Salas](docs/capturas/SeleccionSalas.png)
 
 ### Laboratorio de Anatomía
-![Laboratorio1](docs/capturas/LaboratorioAnatomia1.jng)
-![Laboratorio2](docs/capturas/LaboratorioAnatomia2.jng)
+![Laboratorio](docs/capturas/LaboratorioAnatomia1.png)
+![Laboratorio](docs/capturas/LaboratorioAnatomia2.png)
 
 ---
 
